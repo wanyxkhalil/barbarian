@@ -2,7 +2,17 @@
 
 some utils by python
 
-[TOC]
+Table of Contents
+=================
+
+* [barbarian](#barbarian)
+  * [生成sql语句](#%E7%94%9F%E6%88%90sql%E8%AF%AD%E5%8F%A5)
+    * [\./sql\_insert\.py](#sql_insertpy)
+    * [\./sql\_insert\_all\.py](#sql_insert_allpy)
+    * [\./sql\_select\.py](#sql_selectpy)
+  * [字符串操作](#%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%93%8D%E4%BD%9C)
+    * [\./str\_camel\_2\_snake\.py](#str_camel_2_snakepy)
+    * [\./str\_snake\_2\_camel\.py](#str_snake_2_camelpy)
 
 
 
