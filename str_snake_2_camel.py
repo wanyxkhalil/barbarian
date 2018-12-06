@@ -10,6 +10,7 @@ def underline_to_camel(underline_format):
     if not isinstance(underline_format, str):
         return None
 
+    underline_format = underline_format.strip()
     arr = underline_format.split('_')
     rest = [x.capitalize() for x in arr[1:]]
 

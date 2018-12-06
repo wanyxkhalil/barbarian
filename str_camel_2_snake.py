@@ -10,6 +10,7 @@ def camel_to_underline(camel_format):
     if not isinstance(camel_format, str):
         return None
 
+    camel_format = camel_format.strip()
     rest = [x if x.islower() else '_' + x.lower() for x in camel_format[1:]]
     return camel_format[0].lower() + ''.join(rest)
 
