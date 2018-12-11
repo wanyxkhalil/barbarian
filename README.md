@@ -50,3 +50,11 @@ Table of Contents
 字符串下划线换驼峰
 
 ![image-20181205190139564](./images/str_snake_2_camel.png)
+
+## 随机操作
+
+## ./random_str.py
+
+生成随机字符串
+
+![image-20181205190139564](./images/random_str.png)
