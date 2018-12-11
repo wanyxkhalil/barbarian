@@ -13,6 +13,8 @@ Table of Contents
   * [字符串操作](#%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%93%8D%E4%BD%9C)
     * [\./str\_camel\_2\_snake\.py](#str_camel_2_snakepy)
     * [\./str\_snake\_2\_camel\.py](#str_snake_2_camelpy)
+  * [随机操作](#%E9%9A%8F%E6%9C%BA%E6%93%8D%E4%BD%9C)
+    * [\./random\_str\.py](#random_strpy)
 
 
 
@@ -53,7 +55,7 @@ Table of Contents
 
 ## 随机操作
 
-## ./random_str.py
+### ./random_str.py
 
 生成随机字符串
 
